@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280014197797",
+    "project_id": "aegies-17b42",
+    "storage_bucket": "aegies-17b42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280014197797:android:23e67179512b1da08a1bcc",
+        "android_client_info": {
+          "package_name": "com.example.go_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjD_JrSTJEOH8TWHWsdrE4E_c-HgNpxq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
